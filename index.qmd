@@ -1,7 +1,7 @@
 ---
 title: "Relative High Fitness and Genome-wide Diversity May Facilitate Plastic and Active Foragers' Diversification"
 author: <p style="color:red;">Dylan Padilla<br>Martha Muñoz, David Skelly</p>
-institute: <br>February 27, 2025<br>Yale Institute for Biospheric Studies<br>New Haven, Connecticut<br><center>XIII Latin American Congress of Herpetology, Costa Rica</center>
+institute: <br>February 27, 2026<br>Yale Institute for Biospheric Studies<br>New Haven, Connecticut<br><center>XIII Latin American Congress of Herpetology, Costa Rica</center>
 format: 
   revealjs:
     chalkboard: true
