@@ -120,7 +120,7 @@ execute:
 
 <center>
 <br><br>
-![](imgs/figure1.png){width=80%}
+![](imgs/rugged-landscape.png){width=80%}
 </center>
 
 :::
@@ -140,7 +140,7 @@ execute:
 
 <center>
 <br><br>
-![](imgs/figure1.png){width=80%}
+![](imgs/rugged-landscape.png){width=80%}
 </center>
 
 :::
