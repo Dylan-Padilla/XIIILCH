@@ -269,7 +269,7 @@ Active foraging appears to be the ancestral state of all reptiles (0.639)
 
 ## []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
-Sit-and-wait -> active foraging ($\sim64$), succeeded by Sit-and-wait -> plastic foraging ($\sim57$)
+Sit-and-wait -> active foraging ($\approx64$), succeeded by Sit-and-wait -> plastic foraging ($\approx57$)
 
 <center>
 ![](imgs/figure2.1.png){width=59%}
@@ -293,6 +293,13 @@ Not only was the net diversification of plastic foragers high, but they also evo
 ![](imgs/figure4.png){width=80%}
 </center>
 
+## []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+Plastic foragers do not incur a cost of carrying around additional genetic material
+
+<center>
+![](imgs/figure5.png)
+</center>
 
 ## []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
@@ -329,7 +336,9 @@ A high genome-wide nucleotide diversity among active foragers could compensate f
 
 ::: {.column width='50%'}
 
-<br><br><br><br><br>
+
+![](imgs/YIBS.jpg)
+<br>
 
 For a preprint of the study, check out the qrcode 👉🏼
 
