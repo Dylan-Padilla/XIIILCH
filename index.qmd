@@ -120,7 +120,7 @@ execute:
 
 <center>
 <br><br>
-![](imgs/rugged-landscape.png){width=80%}
+![](imgs/rugged-landscape.png){width=120%}
 </center>
 
 :::
@@ -140,7 +140,7 @@ execute:
 
 <center>
 <br><br>
-![](imgs/rugged-landscape.png){width=80%}
+![](imgs/rugged-landscape.png){width=120%}
 </center>
 
 :::
@@ -148,7 +148,7 @@ execute:
 ::: {.column width='50%'}
 
 1. Active and plastic foraging may lead to high diversification if populations exploit new fitness peaks
-2. A plastic response may come at the cost of carrying around additional genetic machinery
+2. Gene combinations favored under the locally prevailing conditions are not useful in distant environments
 3. Restricted locomotion could lead to low diversification via stochastic processes such as drift
 
 :::
@@ -172,7 +172,7 @@ execute:
 
 - Genomic, behavioral, and life history data
 - Foraging behaviors: Active foragers, Plastic foragers, and Sit-and-wait foragers
-- Reproductive effort: Average clutch size x Average # clutches per year
+- Reproductive effort: Average clutch size x Average # clutches per year x longevity
 
 :::
 ::::
