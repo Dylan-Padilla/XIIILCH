@@ -170,7 +170,7 @@ execute:
 
 ::: {.column width='50%'}
 
-- Physiological, behavioral, and life history data
+- Genomic, behavioral, and life history data
 - Foraging behaviors: Active foragers, Plastic foragers, and Sit-and-wait foragers
 - Reproductive effort: Average clutch size x Average # clutches per year
 
