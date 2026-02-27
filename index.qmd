@@ -295,14 +295,6 @@ Not only was the net diversification of plastic foragers high, but they also evo
 
 ## []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
-Plastic foragers do not incur a cost of carrying around additional genetic material
-
-<center>
-![](imgs/figure5.png)
-</center>
-
-## []{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
-
 Plastic foragers' large genomes potentially contain more genes, more and longer introns, and more transposable elements
 
 <center>
